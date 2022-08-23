@@ -1,5 +1,14 @@
 # Course App
 
+## Setup code
+
+clone this repo
+
+` virtualenv venv` <br>
+` source venv/bin/activate` <br>
+` pip install -r requirements.txt` <br>
+` python manage.py migrate`<br>
+
 ## login and signup
 
 ### 1. signup as student
